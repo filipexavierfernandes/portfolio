@@ -1,7 +1,7 @@
 # My iOS Developer Portfolio  
 
 ## About Me  
-My name is Filipe and I am a Senior iOS Developer with over 10 years of experience, specializing in Swift, SwiftUI, and CI/CD.  
+My name is Filipe and I am a Senior iOS Developer with over 10 years of experience, specializing in Swift, iOS architectures like Viper, Clean Swift and Cordinator patterns, and CI/CD.  
 
 ## Projects  
 ### 1. [Finance App](https://github.com/yourusername/finance-app)  
@@ -13,5 +13,5 @@ My name is Filipe and I am a Senior iOS Developer with over 10 years of experien
 - **Technologies**: UIKit, Local Notifications.  
 
 ## Contact  
-- **Email**: xf_filipe@hotmai.com  
+- **Email**: xf_filipe@hotmail.com  
 - [LinkedIn](https://www.linkedin.com/in/filipe-xavier-fernandes/)  
