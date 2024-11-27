@@ -4,13 +4,9 @@
 My name is Filipe and I am a Senior iOS Developer with over 10 years of experience, specializing in Swift, iOS architectures like Viper, Clean Swift and Cordinator patterns, and CI/CD.  
 
 ## Projects  
-### 1. [Finance App](https://github.com/yourusername/finance-app)  
-- Personal expense management application.  
+### 1. [TaskFlow](https://github.com/filipexavierfernandes/TaskFlow)  
+- A mobile task manager app using SwiftUI, Combine, VIPER, and other architectures.  
 - **Technologies**: SwiftUI, CoreData, Combine.  
-
-### 2. [To-Do List App](https://github.com/yourusername/todo-list)  
-- Task management app with notifications.  
-- **Technologies**: UIKit, Local Notifications.  
 
 ## Contact  
 - **Email**: xf_filipe@hotmail.com  
