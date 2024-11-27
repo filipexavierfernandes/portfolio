@@ -25,7 +25,7 @@ In this project, I applied various design patterns and best practices to manage 
 - **Modern UI**: Built with SwiftUI for a declarative UI.
 - **Architecture**: Clean separation of concerns with VIPER.
 
-[View on GitHub](https://github.com/usuario/taskflow) 
+[View on GitHub](https://github.com/filipexavierfernandes/TaskFlow) 
 
 ## Contact  
 - **Email**: xf_filipe@hotmail.com  
