@@ -12,7 +12,7 @@ Here are some of my featured projects that showcase my skills and experience in 
 
 Cine Explorer is an iOS application designed for movie and series enthusiasts.  It provides an intuitive interface to discover new films and series, view detailed information, watch trailers, and manage favorites.  The app leverages the TMDB API to provide a rich catalog of content.  It's built using MVVM-C architecture, Combine for asynchronous operations, and features comprehensive unit and snapshot testing.
 
-<img src="assets/1-Home.png" width="400">
+<img src="assets/1-home.png" width="400">
 
 **Key Features:**
 
